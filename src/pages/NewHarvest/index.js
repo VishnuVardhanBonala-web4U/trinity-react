@@ -523,7 +523,6 @@ export const NewHarvest = () => {
         </div>
       </div>
       <button onClick={checkApi}>check harvers api </button>
-      <button onClick={checkApi}>check harvers api </button>
     </div>
   );
 };
